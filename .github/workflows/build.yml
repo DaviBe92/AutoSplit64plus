@@ -2,7 +2,7 @@ name: Build and Release
 
 on:
   push:
-    branches: [ "test-ci" ]
+    branches: [ "test-ci", "main" ]
   workflow_dispatch:
 
 permissions:
@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   build-windows:
+    name: Build Windows App & Plugin
     runs-on: windows-2022
     
     steps:
@@ -17,20 +18,27 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: 'recursive'
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install uv and Build Dependencies
+      - name: Install uv
         run: |
-          python -m pip install uv obsscripts
+          python -m pip install uv
+          $uvPath = "$((Get-Process -Id $PID).Path | Split-Path)\..\Scripts"
+          echo "$uvPath" >> $env:GITHUB_PATH
+
+      - name: Install Python Dependencies
+        run: |
           uv venv
           uv pip install pyinstaller -r requirements.txt
 
-      - name: Fetch OBS Deps
-        run: python -m obsscripts.fetch_deps --preset windows-x64
+      - name: Fetch OBS Dependencies
+        run: |
+          uv run python obs-plugin/cmake/common/scripts/fetch_deps.py --preset windows-x64
 
       - name: Build OBS Plugin
         working-directory: obs-plugin
@@ -58,7 +66,8 @@ jobs:
           xcopy /E /I /Y routes     dist\AutoSplit64plus\routes
           xcopy /E /I /Y templates  dist\AutoSplit64plus\templates
           xcopy /Y defaults.ini     dist\AutoSplit64plus\
-          mkdir dist\AutoSplit64plus\obs-plugin
+          
+          if (!(Test-Path "dist\AutoSplit64plus\obs-plugin")) { New-Item -ItemType Directory -Path "dist\AutoSplit64plus\obs-plugin" }
           xcopy /Y obs-plugin\build_x64\RelWithDebInfo\autosplit64plus-framegrabber.dll dist\AutoSplit64plus\obs-plugin\
 
       - name: Create Zip Archive
@@ -67,5 +76,5 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: AutoSplit64plus-Build
+          name: AutoSplit64plus-Windows-Build
           path: AutoSplit64plus-Windows.zip
