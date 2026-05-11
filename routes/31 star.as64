@@ -1,0 +1,118 @@
+{
+    "__route__": true,
+    "title": "31",
+    "category": "70 Star",
+    "initial_star": 0,
+    "version": "JP",
+    "timing": "RTA",
+    "splits": [
+        {
+            "title": "LBLJ",
+            "star_count": 0,
+            "fade_out": 2,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BitDW",
+            "star_count": 1,
+            "fade_out": 2,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "WF+SLIDES",
+            "star_count": 10,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "WC+BOB",
+            "star_count": 13,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "CCM",
+            "star_count": 16,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "SSL",
+            "star_count": 20,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "LLL",
+            "star_count": 26,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "HMC",
+            "star_count": 30,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "DDD",
+            "star_count": 31,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BitFS",
+            "star_count": 31,
+            "fade_out": 3,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BLJ",
+            "star_count": 31,
+            "fade_out": 4,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BitS",
+            "star_count": 31,
+            "fade_out": -1,
+            "fade_in": -1,
+            "xcam": -1,
+            "split_type": "Final",
+            "icon_path": ""
+        }
+    ]
+}

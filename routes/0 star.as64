@@ -1,0 +1,64 @@
+{
+    "__route__": true,
+    "title": "0 star splits",
+    "category": "0 Star",
+    "initial_star": 0,
+    "version": "JP",
+    "timing": "RTA",
+    "splits": [
+        {
+            "title": "LBLJ",
+            "star_count": 0,
+            "fade_out": 2,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BitDW",
+            "star_count": 0,
+            "fade_out": 2,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "sblj",
+            "star_count": 0,
+            "fade_out": 3,
+            "fade_in": 1,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "bitfs",
+            "star_count": 0,
+            "fade_out": 3,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "blj",
+            "star_count": 0,
+            "fade_out": 4,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "bits",
+            "star_count": 0,
+            "fade_out": -1,
+            "fade_in": -1,
+            "xcam": -1,
+            "split_type": "Final",
+            "icon_path": ""
+        }
+    ]
+}

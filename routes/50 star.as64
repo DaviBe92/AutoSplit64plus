@@ -1,0 +1,181 @@
+{
+    "__route__": true,
+    "title": "50 star",
+    "category": "70 Star",
+    "initial_star": 0,
+    "version": "JP",
+    "timing": "RTA",
+    "splits": [
+        {
+            "title": "bomb clip 1",
+            "star_count": 1,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "slide 1     2",
+            "star_count": 2,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "wf 9",
+            "star_count": 9,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "slide 2   10",
+            "star_count": 10,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "wing cap 11",
+            "star_count": 11,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "bitdw 12",
+            "star_count": 12,
+            "fade_out": 2,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "skyjump 13",
+            "star_count": 13,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "ccm 17 ",
+            "star_count": 17,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "ssl 22",
+            "star_count": 22,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "lll 28",
+            "star_count": 28,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "hmc + toad 33",
+            "star_count": 33,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "ddd sub 34",
+            "star_count": 34,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "bitfs 35",
+            "star_count": 35,
+            "fade_out": 2,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "wdw (dont do 100s) 38",
+            "star_count": 38,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "thi 41",
+            "star_count": 41,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "ttm no reds 46",
+            "star_count": 46,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "sl 50",
+            "star_count": 50,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "blj",
+            "star_count": 50,
+            "fade_out": 3,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "bits 50",
+            "star_count": 50,
+            "fade_out": -1,
+            "fade_in": -1,
+            "xcam": -1,
+            "split_type": "Final",
+            "icon_path": ""
+        }
+    ]
+}

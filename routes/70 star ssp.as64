@@ -1,0 +1,568 @@
+{
+    "__route__": true,
+    "title": "70",
+    "category": "70 Star",
+    "initial_star": 0,
+    "version": "JP",
+    "timing": "RTA",
+    "splits": [
+        {
+            "title": "BoB",
+            "star_count": 1,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Slide 1",
+            "star_count": 2,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Cless",
+            "star_count": 3,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Owlless",
+            "star_count": 4,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Reds/100s",
+            "star_count": 6,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Shoot shoot",
+            "star_count": 7,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "King",
+            "star_count": 8,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Tower",
+            "star_count": 9,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Slide 2",
+            "star_count": 10,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Wingcap",
+            "star_count": 11,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BitDW",
+            "star_count": 12,
+            "fade_out": 2,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Sky Jump",
+            "star_count": 13,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "WKWW",
+            "star_count": 14,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "CCM Slide",
+            "star_count": 15,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Penguin/100s",
+            "star_count": 17,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Baby Train",
+            "star_count": 18,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Big Boo",
+            "star_count": 19,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Tricky Sideflip",
+            "star_count": 20,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Pillarless",
+            "star_count": 22,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Talon Bird",
+            "star_count": 23,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Top o' Pyramid",
+            "star_count": 24,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Reds",
+            "star_count": 25,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Lavaboost",
+            "star_count": 26,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Elevator",
+            "star_count": 27,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Bully",
+            "star_count": 28,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Bullies",
+            "star_count": 29,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Logless",
+            "star_count": 30,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Chests",
+            "star_count": 31,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Sub",
+            "star_count": 32,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Manta",
+            "star_count": 33,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BitFS",
+            "star_count": 34,
+            "fade_out": 2,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "100s/Secrets",
+            "star_count": 36,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Elevator again?",
+            "star_count": 37,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Warpie",
+            "star_count": 38,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Boxie breakie",
+            "star_count": 39,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "THI Secrets",
+            "star_count": 40,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Boxie breakie 2",
+            "star_count": 41,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Garden of Evil",
+            "star_count": 42,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Inside the waterfall",
+            "star_count": 44,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "On top",
+            "star_count": 45,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Reds",
+            "star_count": 46,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Lonely shroom",
+            "star_count": 47,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "no breezeless",
+            "star_count": 48,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Snowman's Head",
+            "star_count": 49,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Freezing Pond",
+            "star_count": 50,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "I got this ICEBOX",
+            "star_count": 51,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Icy Bully",
+            "star_count": 52,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Boxjump",
+            "star_count": 55,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Hit the switch pls",
+            "star_count": 56,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Emergency Exit",
+            "star_count": 57,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Stoneage",
+            "star_count": 58,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Lakitu Bounce",
+            "star_count": 59,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "RR Reds",
+            "star_count": 60,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Tricky Triangles",
+            "star_count": 61,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Avoid Swinging",
+            "star_count": 62,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Thwomp/100s",
+            "star_count": 65,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Pendulum",
+            "star_count": 66,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Get a hand",
+            "star_count": 67,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Inside the cage",
+            "star_count": 68,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "Inside the other cage",
+            "star_count": 69,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "TTC Reds",
+            "star_count": 70,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BitS (fin)",
+            "star_count": 70,
+            "fade_out": -1,
+            "fade_in": -1,
+            "xcam": -1,
+            "split_type": "Final",
+            "icon_path": ""
+        }
+    ]
+}

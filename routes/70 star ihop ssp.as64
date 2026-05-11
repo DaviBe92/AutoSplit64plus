@@ -1,0 +1,568 @@
+{
+    "__route__": true,
+    "title": "70 star ihop ssp",
+    "category": "70 Star",
+    "initial_star": 0,
+    "version": "US",
+    "timing": "RTA",
+    "splits": [
+        {
+            "title": "ISLAND HOP",
+            "star_count": 1,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BOMBCLIP",
+            "star_count": 2,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "SLIDE 1",
+            "star_count": 3,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "CLESS",
+            "star_count": 4,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "OWLLESS",
+            "star_count": 5,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "REDS / HUNDO",
+            "star_count": 7,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "WILD BLUE",
+            "star_count": 8,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "WHOMPS KING",
+            "star_count": 9,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "TOP O THE TOWER",
+            "star_count": 10,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "SLIDE 2",
+            "star_count": 11,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "WINGCAP",
+            "star_count": 12,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BOWSER 1",
+            "star_count": 13,
+            "fade_out": 2,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "WKWW",
+            "star_count": 14,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "SLIDE / HUNDO",
+            "star_count": 16,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BABYTRAIN",
+            "star_count": 17,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "THAT ONE BALCONY",
+            "star_count": 18,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "THE OTHER BALCONY",
+            "star_count": 19,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "TAMA SECRETS",
+            "star_count": 21,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "OG TAMA",
+            "star_count": 22,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BIRDO",
+            "star_count": 23,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "TOP O THE PYRAMID",
+            "star_count": 24,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "REDS",
+            "star_count": 25,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "VOLCANO",
+            "star_count": 26,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "ELEEVATOR",
+            "star_count": 27,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BIG BULLY",
+            "star_count": 28,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "NOT SO BIG BULLIES",
+            "star_count": 29,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "LOGLESS",
+            "star_count": 30,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "LOTTA CHESTS",
+            "star_count": 31,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BOWSERS SUB",
+            "star_count": 32,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "MANTA MANTA",
+            "star_count": 33,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BOWSER 2",
+            "star_count": 34,
+            "fade_out": 2,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "SECRETS / HUNDO",
+            "star_count": 36,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "ELEEVATOR 2",
+            "star_count": 37,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "THE WARP ONE??",
+            "star_count": 38,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "TOP O THE TOWN",
+            "star_count": 39,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "MORE SECRETS",
+            "star_count": 40,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "MOUNTAIN CLIPPIE",
+            "star_count": 41,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "HOW DO YOU WRITE PYRANHA",
+            "star_count": 42,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BREATHTAKING VIEW",
+            "star_count": 44,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "REDS",
+            "star_count": 45,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "MOUNTAIN TOP",
+            "star_count": 46,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "LONELY SHROOM",
+            "star_count": 47,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BREEZELESS",
+            "star_count": 48,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "GOOD HEAD",
+            "star_count": 49,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "FREEZIN POND",
+            "star_count": 50,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "I GOT THIS ICE BOX",
+            "star_count": 51,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "ICE BULLY",
+            "star_count": 52,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "DORRIE",
+            "star_count": 55,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "MERRY XMAS",
+            "star_count": 56,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "EMERGENCY",
+            "star_count": 57,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "THIS ROCKS",
+            "star_count": 58,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "WE BE CRUISIN",
+            "star_count": 59,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "REDS",
+            "star_count": 60,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "TRICKY TRIANGLES",
+            "star_count": 61,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BREEZE",
+            "star_count": 62,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "THWOMP / HUNDO",
+            "star_count": 65,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "MOVING REDS",
+            "star_count": 66,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "PENDULUM",
+            "star_count": 67,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "THE CAGED ONE",
+            "star_count": 68,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "GET A HAND (FLIRT)",
+            "star_count": 69,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "MOVING BARS",
+            "star_count": 70,
+            "fade_out": 1,
+            "fade_in": 0,
+            "xcam": -1,
+            "split_type": "Normal",
+            "icon_path": ""
+        },
+        {
+            "title": "BOWSER 3 (FIN)",
+            "star_count": 70,
+            "fade_out": -1,
+            "fade_in": -1,
+            "xcam": -1,
+            "split_type": "Final",
+            "icon_path": ""
+        }
+    ]
+}
